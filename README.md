@@ -219,16 +219,6 @@ Change one line in `.env` to switch from SQLite to PostgreSQL:
 DATABASE_URL=postgresql://username:password@host/dbname
 ```
 
-Recommended hosting:
-
-| Service | For | Cost |
-|---------|-----|------|
-| [Vercel](https://vercel.com/) | Frontend | Free |
-| [Render](https://render.com/) | Backend | Free tier |
-| [Supabase](https://supabase.com/) | PostgreSQL database | Free tier |
-
----
-
 ## License
 
 This project is licensed under the MIT License.
