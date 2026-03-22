@@ -100,35 +100,7 @@ ALGORITHM=HS256
 python seed_clothing.py
 ```
 
-This adds 53 clothing items to the database.
-
----
-
-## Running the App
-
-Open **two terminals** at the same time.
-
-**Terminal 1 — Frontend**
-
-```bash
-# From project root
-npm run dev
-```
-
-Runs at → `http://localhost:5173`
-
-**Terminal 2 — Backend**
-
-```bash
-# From backend/ folder with venv activated
-uvicorn app.main:app --reload --port 8080
-```
-
-Runs at → `http://localhost:8080`
-
-Interactive API docs → `http://localhost:8080/docs`
-
----
+This adds 53 clothing items to the database
 
 ## API Endpoints
 
