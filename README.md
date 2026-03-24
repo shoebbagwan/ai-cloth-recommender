@@ -11,7 +11,7 @@
 
 ## What is AttireAI?
 
-AttireAI recommends the perfect outfit every morning based on your **body type**, **skin tone**, **gender**, **occasion** and **today's real weather**. It uses a Random Forest ML model to score and rank outfits — like having a personal stylist who knows the weather and your style
+AttireAI recommends the perfect outfit every morning based on your **body type**, **skin tone**, **gender**, **occasion** and **today's real weather**. It uses a Random Forest ML model to score and rank outfits — like having a personal stylist who knows the weather and your style.
 
 ---
 
